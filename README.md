@@ -2,7 +2,9 @@
 
 ## Contributors:
 Yusri Dollie
-William grant
+
+William Grant
+
 Jacques Botha
 
 Storage Repo for scripts used in the creation of the Eden's Oddysee VR FPS shooter.
